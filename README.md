@@ -91,31 +91,48 @@ Setting IP pada tiap interface yang ada di setiap device sesuai dengan pembagian
 
    2. Pada Blueno
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683389-270397d0-8ef8-40fe-a173-b9c070420acc.png)" width="500">
    
    3. Pada Water7
    
-   - Konfigurasi Water7
+   - Konfigurasi Water7 Static
+   
+     ![PacketTracer_5QcB5cOlxg](https://user-images.githubusercontent.com/57980125/143683443-83ece41e-2c9f-4a1d-8cd2-c661f39af7a9.png)
+     
+   - Konfigurasi Water7 Interface
    
    <img src="image/cpt_water7_fa01.jpg" width="500">
    
+   ![PacketTracer_JhOwCdBsLA](https://user-images.githubusercontent.com/57980125/143683460-0951cf34-aa08-4a5c-8448-5bb342751b2d.png)
+   
+   ![PacketTracer_FYJOswy9qo](https://user-images.githubusercontent.com/57980125/143683461-f55f4a01-f021-411f-a9a0-67d7f29c4bf1.png)
+
+   
    4. Pada Chiper
     
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683482-2b35546c-3de5-45c4-8fa6-b01cc1d5cd52.png" width="500">
    
    5. Pada Pucci
    
-   -Konfigurasi Pucci
+   -Konfigurasi Pucci Static
+   
+   ![PacketTracer_7QJp7rV0nA](https://user-images.githubusercontent.com/57980125/143683512-99a5228c-ce65-420d-a1ca-5c1606a57f1c.png)
+
+   -Konfigurasi Pucci Interface
+   
+   ![PacketTracer_a3Efn5axym](https://user-images.githubusercontent.com/57980125/143683529-2cc8dec4-ba79-478e-9517-0e452321cb6e.png)
+   
+   ![PacketTracer_0SPKMmfzEO](https://user-images.githubusercontent.com/57980125/143683532-7ba0cc27-19b0-4d23-94e8-1cc65ed62387.png) 
    
    <img src="image/cpt_pucci_fa00.jpg" width="500">
    
    6. Pada Calmbelt
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683557-6d498d8f-e483-474c-b3cb-50984b723a42.png" width="500">
    
    7. Pada Courtyard
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683574-8a326fb4-afc3-40d0-a540-2ea0dc7bcf59.png" width="500">
    
    8. Pada Jipangu
    
@@ -133,27 +150,50 @@ Setting IP pada tiap interface yang ada di setiap device sesuai dengan pembagian
    
    9. Pada Doriki
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683609-8b135fc0-93eb-4d2b-b395-597f3a640e6f.png" width="500">
    
    10. Pada Guanhao
    
-        <img src="" width="500">
+   -  Konfigurasi Guanhao Static
+   
+       ![PacketTracer_kZhSnUDefc](https://user-images.githubusercontent.com/57980125/143683668-33a9627a-b676-4aae-8b6e-3dde92209ca0.png)
+
+       ![PacketTracer_4cu7kFgiRW](https://user-images.githubusercontent.com/57980125/143683675-841bff35-c714-4135-9b17-56b68aafdf5a.png)
+
+   
+   -  Konfigurasi Guanhao Interface
+   
+        <img src="https://user-images.githubusercontent.com/57980125/143683699-32c409a3-e4ea-40f1-afc4-34abd780594d.png" width="500">
+        
+        <img src="https://user-images.githubusercontent.com/57980125/143683700-31456ab6-1fdd-41dd-a94e-61f6d0da8cfa.png" width="500">
+        
+        <img src="https://user-images.githubusercontent.com/57980125/143683704-7ac40611-04de-40a7-85c3-633626534541.png" width="500">
+        
+        <img src="https://user-images.githubusercontent.com/57980125/143683705-6e9fe233-d77b-45eb-a0df-21b0ab5db996.png" width="500">
    
    11. Pada Jabra
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683740-104764d1-0334-47fe-b3da-fbed0390accd.png" width="500">
    
    12. Pada Maingate
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683753-277d3bbf-6f35-4d09-88ef-44f340164602.png" width="500">
    
    13. Pada Alabasta
    
-        <img src="" width="500">
+   - Konfigurasi Alabasta Static
+        
+        <img src="https://user-images.githubusercontent.com/57980125/143683845-4fabd114-007e-466c-b4bf-91cf041f3887.png" width="500">
    
+   - Konfigurasi Alabasta Interface
+        
+        <img src="https://user-images.githubusercontent.com/57980125/143683842-5e8375ab-67ad-49eb-ba82-7240f33d8d0a.png" width="500">
+        
+        <img src="https://user-images.githubusercontent.com/57980125/143683839-77246c26-fd8a-40b4-bc14-4eea7ea02ba4.png" width="500">
+        
    14. Pada Jorge
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683876-4dd9081d-9262-476d-a8b0-d4846ef6d3fc.png" width="500">
    
    15. Pada Oimo
    
@@ -167,38 +207,26 @@ Setting IP pada tiap interface yang ada di setiap device sesuai dengan pembagian
    
    16. Pada Fukurou
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683935-98e7fe71-721a-498b-a39f-8acb9ff88070.png" width="500">
    
    17. Pada EniesLobby
    
-        <img src="" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683925-18ff7d3e-ddf9-4192-b8a1-9686150c0fe5.png" width="500">
    
    18. Pada Seastone
    
-        <img src="" width="500">
+        <img src="![PacketTracer_20IN6aEFeH](https://user-images.githubusercontent.com/57980125/143683998-78e1b439-78c6-48a4-bebe-16bf9adb2e0b.png)
+" width="500">
+       
+        ![PacketTracer_EhDXH5N8pQ](https://user-images.githubusercontent.com/57980125/143684005-cda661b7-f846-48dc-ab70-d2878a3c78d8.png)
+
+        ![PacketTracer_ETrIGZbmQD](https://user-images.githubusercontent.com/57980125/143684017-f12aaff7-0aec-4cbf-846b-5786881d1664.png)
+
    
    19. Pada Elena
+   
+   ![PacketTracer_n1Jw99MDEC](https://user-images.githubusercontent.com/57980125/143683929-1634748a-76c3-476c-9001-1cf58b06c840.png)
 
-   - Uji coba ping `Elena` ke `Doriki`
-   
-   <img src="image/elena ke doriki.png" width="500">
-
-   - Uji coba ping `Elena` ke `Fukurou`
-   
-   <img src="image/elena ke fukurou.png" width="500">
-   
-   - Uji coba ping `Elena` ke `Jipangu`
-   
-   <img src="image/elena ke jipangu.png" width="500">
-        
-   - Uji coba ping `Elena` ke `Jorge`
-   
-   <img src="image/elena ping jorge.jpg" width="500">
-        
-   - Uji coba ping `Elena` ke `Google`
-   
-   <img src="image/elena ping google.jpg" width="500">
-   
         
        
 ---
@@ -348,8 +376,27 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
    
    19. Pada Elena
    
-        <img src="" width="500">
-       
+   - Uji coba ping `Elena` ke `Doriki`
+   
+   <img src="image/elena ke doriki.png" width="500">
+
+   - Uji coba ping `Elena` ke `Fukurou`
+   
+   <img src="image/elena ke fukurou.png" width="500">
+   
+   - Uji coba ping `Elena` ke `Jipangu`
+   
+   <img src="image/elena ke jipangu.png" width="500">
+        
+   - Uji coba ping `Elena` ke `Jorge`
+   
+   <img src="image/elena ping jorge.jpg" width="500">
+        
+   - Uji coba ping `Elena` ke `Google`
+   
+   <img src="image/elena ping google.jpg" width="500">
+   
+   
 ---
 
 ## Kendala
