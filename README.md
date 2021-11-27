@@ -60,27 +60,27 @@ Pakek email its yaa
    **Pengaturan pada tiap node**
    1. Pada Foosha
   
-   ###Uji coba ping `Foosha` ke `chiper`
+   - Uji coba ping `Foosha` ke `chiper`
    
    <img src="image/foosha ke doriki.png" width="500">
 
-   ###Uji coba ping `Foosha` ke `Elena`
+   - Uji coba ping `Foosha` ke `Elena`
    
    <img src="image/foosha ke elena.png" width="500">
    
-   ###Uji coba ping `Foosha` ke `Jipangu`
+   - Uji coba ping `Foosha` ke `Jipangu`
    
    <img src="image/foosha ke jipangu.png" width="500">
    
-   ###Uji coba ping `Foosha` ke `Jorge`
+   - Uji coba ping `Foosha` ke `Jorge`
    
    <img src="image/foosha ke jorge.png" width="500">
         
-   ###Uji coba ping `Foosha` ke `Oimo`
+   - Uji coba ping `Foosha` ke `Oimo`
    
    <img src="image/foosha ping oimo.png" width="500">
         
-   ###Uji coba ping `Foosha` ke `Google`
+   - Uji coba ping `Foosha` ke `Google`
    
    <img src="image/foosha ping google.jpg" width="500">
 
@@ -110,15 +110,15 @@ Pakek email its yaa
    
    8. Pada Jipangu
    
-   ###Uji coba ping `jipangu` ke `Jorge`
+   - Uji coba ping `jipangu` ke `Jorge`
    
    <img src="image/jipangu ke jorge.png" width="500">
 
-   ###Uji coba ping `jipangu` ke `Elena`
+   - Uji coba ping `jipangu` ke `Elena`
    
    <img src="image/jipangu ke Elena.png" width="500">
    
-   ###Uji coba ping `jipangu` ke `Google`
+   - Uji coba ping `jipangu` ke `Google`
    
    <img src="image/jipangu ke google.png" width="500">
    
@@ -164,23 +164,23 @@ Pakek email its yaa
    
    19. Pada Elena
 
-   ###Uji coba ping `Elena` ke `Doriki`
+   - Uji coba ping `Elena` ke `Doriki`
    
    <img src="image/elena ke doriki.png" width="500">
 
-   ###Uji coba ping `Elena` ke `Fukurou`
+   - Uji coba ping `Elena` ke `Fukurou`
    
    <img src="image/elena ke fukurou.png" width="500">
    
-   ###Uji coba ping `Elena` ke `Jipangu`
+   - Uji coba ping `Elena` ke `Jipangu`
    
    <img src="image/elena ke jipangu.png" width="500">
         
-   ###Uji coba ping `Elena` ke `Jorge`
+   - Uji coba ping `Elena` ke `Jorge`
    
    <img src="image/elena ping jorge.jpg" width="500">
         
-   ###Uji coba ping `Elena` ke `Google`
+   - Uji coba ping `Elena` ke `Google`
    
    <img src="image/elena ping google.jpg" width="500">
    
