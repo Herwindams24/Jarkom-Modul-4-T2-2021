@@ -66,7 +66,7 @@ Pakek email its yaa
   
    - Uji coba ping `Foosha` ke `chiper`
    
-   <img src="image/foosha ke doriki.png" width="500">
+   <img src="image/foosha ke chiper.png" width="500">
 
    - Uji coba ping `Foosha` ke `Elena`
    
@@ -82,7 +82,7 @@ Pakek email its yaa
         
    - Uji coba ping `Foosha` ke `Oimo`
    
-   <img src="image/foosha ping oimo.png" width="500">
+   <img src="image/foosha ke oimo.png" width="500">
         
    - Uji coba ping `Foosha` ke `Google`
    
