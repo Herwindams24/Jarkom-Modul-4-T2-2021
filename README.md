@@ -11,16 +11,11 @@ Kelompok T02
 
    **Soal**
     
-   Buatlah topologi seperti berikut dan tentukan subnetting serta routingnya
+   Pertama-tama buatlah pembagian subnet terhadap topologi soal. Berikut merupakan gambar topologi yang telah dibagi subnet:
    
 <img src="https://user-images.githubusercontent.com/57520495/143676636-69f4fc74-86ea-4ef4-aa87-86b3663df461.png" width="500">
 
----
-
-Link miro: https://miro.com/welcomeonboard/SmtrWnF2VDZ6SzBseHhSbmJzeU16SWlvaDhOM1FVOXJGeng5WVd4Z1NtRzZKUE5QNTUybEZOU1oyaXh2NlBGRXwzMDc0NDU3MzYwMzk1NTk1NDg2?invite_link_id=708907599398
-Pakek email its yaa
-
----
+Hasil pembagian subnet yang kami dapat adalah **15 Subnet**. Dengan Subnet A1 kami ambil dari yang paling jauh dari Foosha.
 
    **Jawaban**
 
@@ -28,7 +23,7 @@ Pakek email its yaa
    
    **Perhitungan dan pembagian IP**
    
-   Tabel jumlah IP dibutuhkan pada tiap subnet
+Tentukan jumlah IP address yang dibutuhkan per subnet dari total subnet yang sebelumnya telah ditentukan, yaitu 15 subnet.
    
 | Subnet | Jumlah IP | Netmask |
 | --- | --- | --- |
@@ -48,16 +43,22 @@ Pakek email its yaa
 | A14 | 2 | /30 |
 | A15 | 2 | /30 |
 | Total | 5845 | /19 |
-   
-   Tabel pembagian IP
-   
-   <img src="https://user-images.githubusercontent.com/57520495/143677234-6af41b07-ef6a-4c29-83da-811b15704605.png" width="500">
-   
-   Topologi VLSM
+
+
+Total jumlah IP addres didapatkan adalah 5845, sehingga masuk ke dalam netmask /19. Setelah itu, kami bentuk subnet paling besar dengan NID 192.212.0.0 dan netmask /19. Lalu, lakukan pembagian IP dengan bantuan IP tree seperti gambar berikut:
    
    <img src="https://user-images.githubusercontent.com/57520495/143677310-079eaa6a-d172-4c4c-8704-8e5bb5305373.png" width="500">
    
-   **Pengaturan pada tiap node**
+Dapatkan perhitungan broadcast dari IP tree (Network ID dan Netmask). Pada contoh ini, kami tunjukan perhitungan Broadcast Addr seperti pada gambar menggunakan NID A1 yaitu 192.212.26.0 dan Netmask /24:
+  
+   <img src="https://user-images.githubusercontent.com/57980125/143682739-cb092233-eb73-4535-866a-1e0f2db12b37.png" width="500">
+
+Berikut merupakan tabel rangkuman untuk sebuah subnet yang memiliki NID, Netmask, dan Broadcast Address yang berhasil kami dapatkan:
+
+   <img src="https://user-images.githubusercontent.com/57520495/143677234-6af41b07-ef6a-4c29-83da-811b15704605.png" width="500">
+   
+Setting IP pada tiap interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM. Sebagi berikut:
+   
    1. Pada Foosha
   
   - Konfigurasi Foosha
@@ -202,9 +203,25 @@ Pakek email its yaa
        
 ---
 ## CIDR
+
+Pertama, buat satu node yang terhubung dengan internet dengan nama NAT1 dan sambungkan dengan router foosha melalui interface `nat0` menuju interface `eth0`.
+Selanjutnya, tempatkan node-node yang lain seperti pada soal.
+
+Tentukan subnet yang ada dalam topologi dan melakukan labelling netmask terhadap masing-masing subnet. Gabungkan subnet paling bawah di dalam topologi. Paling bawah berarti subnet yang paling jauh dari internet.
+Penggabungan dan pengelompokkan subnet dapat dilihat pada gambar berikut:
+
+   <img src="https://user-images.githubusercontent.com/57520495/143677792-55fd3842-a3fb-45a4-9892-4866b84c043d.png" width="500">
+      
+   <img src="https://user-images.githubusercontent.com/57520495/143677842-e8183a64-9502-4556-9ebf-00210e1ae116.png" width="500">
+
+   <img src="https://user-images.githubusercontent.com/57520495/143678077-80752831-45fe-4b5b-a090-6a67fc250e0b.png" width="500">
    
+Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1** dan **D2**. **D1** dan **D2** menjadi **E1**   
+
+   <img src="https://user-images.githubusercontent.com/57520495/143678161-4c12c744-6035-4b84-b284-4cdf04fd3571.png" width="500">
+
    **Perhitungan dan pembagian IP**
-   Tabel jumlah IP dibutuhkan pada tiap subnet
+   List subnet-nestmask ada setelah penggabungan ini didapatkan dengan menggunakan teknik CIDR subnet gabungan yang akan memiliki netmask yang 1 tingkat di atas subnet terbesar yang digabungkan
    
 | Subnet | Jumlah IP | Netmask |
 | --- | --- | --- |
@@ -246,18 +263,15 @@ Pakek email its yaa
    
    Tabel pembagian IP
    
+   Buat Tree CIDR dengan cara penggabungan Subnet seperti pada gambar Topologi yang telah dikelompokkan dan ip addres netmask dari masing-masing subnet:
+   
+   <img src="https://user-images.githubusercontent.com/57980125/143683224-4292ebf0-54f4-4ca2-b564-8726f874fa69.jpg" width="500">
+
+   Berikut merupakan tabel hasil perhitungan Broadcast Address dari setiap subnet A1-A15:
+   
    <img src="https://user-images.githubusercontent.com/57520495/143677745-64fc543b-5153-4e81-b085-3633bfef72fe.png" width="500">
-   
-   Topologi CIDR
-   
-   <img src="https://user-images.githubusercontent.com/57520495/143677792-55fd3842-a3fb-45a4-9892-4866b84c043d.png" width="500">
-      
-   <img src="https://user-images.githubusercontent.com/57520495/143677842-e8183a64-9502-4556-9ebf-00210e1ae116.png" width="500">
-   
-   <img src="https://user-images.githubusercontent.com/57520495/143678077-80752831-45fe-4b5b-a090-6a67fc250e0b.png" width="500">
-   
-   <img src="https://user-images.githubusercontent.com/57520495/143678161-4c12c744-6035-4b84-b284-4cdf04fd3571.png" width="500">
-   
+  
+ Selanjutnya, lakukan konfigurasi terlebih dahulu disetiap router, server, dan PC:
    
    **Pengaturan pada tiap node**
    1. Pada Foosha
