@@ -63,35 +63,10 @@ Setting IP pada tiap interface yang ada di setiap device sesuai dengan pembagian
   
   - Konfigurasi Foosha
   
-  <img src="image/routing foosha ke a11&a3.jpg" width="500">
   
-   - Uji coba ping `Foosha` ke `chiper`
-   
-   <img src="image/foosha ke chiper.png" width="500">
-
-   - Uji coba ping `Foosha` ke `Elena`
-   
-   <img src="image/foosha ke elena.png" width="500">
-   
-   - Uji coba ping `Foosha` ke `Jipangu`
-   
-   <img src="image/foosha ke jipangu.png" width="500">
-   
-   - Uji coba ping `Foosha` ke `Jorge`
-   
-   <img src="image/foosha ke jorge.png" width="500">
-        
-   - Uji coba ping `Foosha` ke `Oimo`
-   
-   <img src="image/foosha ke oimo.png" width="500">
-        
-   - Uji coba ping `Foosha` ke `Google`
-   
-   <img src="image/foosha ping google.jpg" width="500">
-
    2. Pada Blueno
    
-        <img src="https://user-images.githubusercontent.com/57980125/143683389-270397d0-8ef8-40fe-a173-b9c070420acc.png)" width="500">
+        <img src="https://user-images.githubusercontent.com/57980125/143683389-270397d0-8ef8-40fe-a173-b9c070420acc.png" width="500">
    
    3. Pada Water7
    
@@ -136,17 +111,7 @@ Setting IP pada tiap interface yang ada di setiap device sesuai dengan pembagian
    
    8. Pada Jipangu
    
-   - Uji coba ping `jipangu` ke `Jorge`
-   
-   <img src="image/jipangu ke jorge.png" width="500">
-
-   - Uji coba ping `jipangu` ke `Elena`
-   
-   <img src="image/jipangu ke Elena.png" width="500">
-   
-   - Uji coba ping `jipangu` ke `Google`
-   
-   <img src="image/jipangu ke google.png" width="500">
+ 
    
    9. Pada Doriki
    
@@ -197,13 +162,7 @@ Setting IP pada tiap interface yang ada di setiap device sesuai dengan pembagian
    
    15. Pada Oimo
    
-   - Uji coba ping `Oimo` ke `Chiper`
-
-        <img src="https://user-images.githubusercontent.com/57520495/143682374-f98daf97-7a7c-45f6-8637-947e1892e340.png" width="500">
-        
-   - Uji coba ping `Oimo` ke `Pucci`
-
-        <img src="https://user-images.githubusercontent.com/57520495/143682419-45e27eaf-5872-478b-98ea-3828ee98c4bb.png" width="500">
+   
    
    16. Pada Fukurou
    
@@ -304,75 +263,93 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
    **Pengaturan pada tiap node**
    1. Pada Foosha
 
-        <img src="" width="500">
+  **Konfigurasi**
 
-   2. Pada Blueno
+![chrome_mTJvGB4d0M](https://user-images.githubusercontent.com/57980125/143684500-65c4ea99-8b40-4b65-b2ed-bec3006c8498.png)
+
+![chrome_3C21gSkfJB](https://user-images.githubusercontent.com/57980125/143684508-1c50e7da-3cb7-4e38-a301-84910661f83c.png)
+
+  **Routing**
+![chrome_B4uvZJICri](https://user-images.githubusercontent.com/57980125/143684486-5d0c105a-7fff-4257-9e66-04a6f47d7da9.png)
+
+![chrome_0mTJK6E0EP](https://user-images.githubusercontent.com/57980125/143684489-a92ee316-bcc2-4a5a-986c-a1f73dde020e.png)
+
+![chrome_vjMtdo8mdf](https://user-images.githubusercontent.com/57980125/143684491-d1b450b3-95a1-4699-9b42-1e28a05228db.png)
+
+![chrome_tFU6EbiBal](https://user-images.githubusercontent.com/57980125/143684495-287745a1-137a-448f-823a-ae4f3af0ac91.png)
+
+![chrome_mBlHHkLrqI](https://user-images.githubusercontent.com/57980125/143684497-b0dac0c5-76d4-444a-9f88-65f11ff1031f.png)
+
+
+  **Uji Coba**
+  
+   <img src="image/routing foosha ke a11&a3.jpg" width="500">
+  
+   - Uji coba ping `Foosha` ke `chiper`
    
-        <img src="" width="500">
+   <img src="image/foosha ke chiper.png" width="500">
+
+   - Uji coba ping `Foosha` ke `Elena`
    
-   3. Pada Water7
+   <img src="image/foosha ke elena.png" width="500">
    
-       <img src="" width="500">
+   - Uji coba ping `Foosha` ke `Jipangu`
    
-   4. Pada Chiper
-    
-        <img src="" width="500">
+   <img src="image/foosha ke jipangu.png" width="500">
    
-   5. Pada Pucci
+   - Uji coba ping `Foosha` ke `Jorge`
    
-        <img src="" width="500">
+   <img src="image/foosha ke jorge.png" width="500">
+        
+   - Uji coba ping `Foosha` ke `Oimo`
    
-   6. Pada Calmbelt
+   <img src="image/foosha ke oimo.png" width="500">
+        
+   - Uji coba ping `Foosha` ke `Google`
    
-        <img src="" width="500">
+   <img src="image/foosha ping google.jpg" width="500">
+
+   <img src="" width="500">
    
-   7. Pada Courtyard
+ Pada Water7
    
-        <img src="" width="500">
+  <img src="" width="500">
    
-   8. Pada Jipangu
+  Pada Pucci
    
-        <img src="" width="500">
+  
    
-   9. Pada Doriki
+  Pada Guanhao
+  
+  Routing
+  
+   ![chrome_iJyYPqkfPe](https://user-images.githubusercontent.com/57980125/143684390-ee1b4417-ff5f-4c58-aa0d-86d775b82f31.png)
+
+ Konfigurasi
+ 
+  ![chrome_tqYLWe5gRM](https://user-images.githubusercontent.com/57980125/143684396-d0ba3b33-b417-4735-b132-635892124ad1.png)
+  
+  ![chrome_CeT5UbYbm6](https://user-images.githubusercontent.com/57980125/143684400-d79e00d8-7bcf-46ed-ba17-4ddcf865704e.png)
+
    
-        <img src="" width="500">
+  Pada Alabasta
    
-   10. Pada Guanhao
-   
-        <img src="" width="500">
-   
-   11. Pada Jabra
-   
-        <img src="" width="500">
-   
-   12. Pada Maingate
-   
-        <img src="" width="500">
-   
-   13. Pada Alabasta
-   
-        <img src="" width="500">
-   
-   14. Pada Jorge
-   
-        <img src="" width="500">
-   
-   15. Pada Oimo
-   
-        <img src="" width="500">
-   
-   16. Pada Fukurou
-   
-        <img src="" width="500">
-   
-   17. Pada EniesLobby
-   
-        <img src="" width="500">
+ ![chrome_Rm80qRaj5k](https://user-images.githubusercontent.com/57980125/143684355-06704e63-e373-429c-a611-7c268fef1575.png)
+
+  Pada Oimo
+  
+  **Configurasi**
+  
+  ![chrome_mmpGZHr9b2](https://user-images.githubusercontent.com/57980125/143684320-1368ad48-4f30-407f-9725-3cda4e37182c.png)
+  ![chrome_LIDC0ouvzp](https://user-images.githubusercontent.com/57980125/143684322-bc4d5e98-9c48-41a7-bdc0-23a431843f6a.png)
+
+  **Routing**
+  
+  ![chrome_nq1H1Vf5ty](https://user-images.githubusercontent.com/57980125/143684334-02750a0e-a7bd-41dd-ac96-a5e95b2f8aff.png)
    
    18. Pada Seastone
    
-        <img src="" width="500">
+   ![chrome_t8azydrMEc](https://user-images.githubusercontent.com/57980125/143684280-b6423a0a-ac3e-408b-acbc-927aea2bb70a.png)   
    
    19. Pada Elena
    
@@ -395,8 +372,34 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
    - Uji coba ping `Elena` ke `Google`
    
    <img src="image/elena ping google.jpg" width="500">
+  
+  20. Pada Jipangu
+       
+   - Uji coba ping `jipangu` ke `Jorge`
    
+   <img src="image/jipangu ke jorge.png" width="500">
+
+   - Uji coba ping `jipangu` ke `Elena`
    
+   <img src="image/jipangu ke Elena.png" width="500">
+   
+   - Uji coba ping `jipangu` ke `Google`
+   
+   <img src="image/jipangu ke google.png" width="500">
+  
+ 
+  21. Pada Oimo
+ 
+      - Uji coba ping `Oimo` ke `Chiper`
+
+        <img src="https://user-images.githubusercontent.com/57520495/143682374-f98daf97-7a7c-45f6-8637-947e1892e340.png" width="500">
+        
+   - Uji coba ping `Oimo` ke `Pucci`
+
+        <img src="https://user-images.githubusercontent.com/57520495/143682419-45e27eaf-5872-478b-98ea-3828ee98c4bb.png" width="500">
+
+
+
 ---
 
 ## Kendala
