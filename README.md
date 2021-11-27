@@ -26,33 +26,93 @@ Pakek email its yaa
 ## VLSM
    
    **Perhitungan dan pembagian IP**
+   Tabel jumlah IP dibutuhkan pada tiap subnet
+   <img src="https://user-images.githubusercontent.com/57520495/143677185-462b973b-ddd3-4b0f-b8c0-e9d65e21e0db.png" width="500">
    
+   Tabel pembagian IP
+   <img src="https://user-images.githubusercontent.com/57520495/143677234-6af41b07-ef6a-4c29-83da-811b15704605.png" width="500">
+   
+   Topologi VLSM
+   <img src="https://user-images.githubusercontent.com/57520495/143677310-079eaa6a-d172-4c4c-8704-8e5bb5305373.png  " width="500">
    
    **Pengaturan pada tiap node**
    1. Pada Foosha
 
         <img src="" width="500">
 
-   2. Pada Loguetown
+   2. Pada Blueno
    
         <img src="" width="500">
-        <img src="" width="500">
    
-   3. Pada Skypie
+   3. Pada Water7
    
        <img src="" width="500">
    
-   4. Pada EnniesLobby
+   4. Pada Chiper
     
         <img src="" width="500">
    
-   5. Pada Water7
+   5. Pada Pucci
    
         <img src="" width="500">
    
-   6. Pada Alabasta
+   6. Pada Calmbelt
+   
+        <img src="" width="500">
+   
+   7. Pada Courtyard
+   
+        <img src="" width="500">
+   
+   8. Pada Jipangu
+   
+        <img src="" width="500">
+   
+   9. Pada Doriki
+   
+        <img src="" width="500">
+   
+   10. Pada Guanhao
+   
+        <img src="" width="500">
+   
+   11. Pada Jabra
+   
+        <img src="" width="500">
+   
+   12. Pada Maingate
+   
+        <img src="" width="500">
+   
+   13. Pada Alabasta
+   
+        <img src="" width="500">
+   
+   14. Pada Jorge
+   
+        <img src="" width="500">
+   
+   15. Pada Oimo
+   
+        <img src="" width="500">
+   
+   16. Pada Fukurou
+   
+        <img src="" width="500">
+   
+   17. Pada EniesLobby
+   
+        <img src="" width="500">
+   
+   18. Pada Seastone
+   
+        <img src="" width="500">
+   
+   19. Pada Elena
+   
+        <img src="" width="500">
+   
         
-        <img src="" width="500">
        
 ---
 ## CIDR
