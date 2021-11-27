@@ -142,15 +142,15 @@ Pakek email its yaa
    
    ###Uji coba ping `Elena` ke `jipangu`
    
-        <img src="image/elena ke jipangu.png" width="500">
+   <img src="image/elena ke jipangu.png" width="500">
         
    ###Uji coba ping `Elena` ke `jorge`
    
-        <img src="image/elena ke jorge.png" width="500">
+   <img src="image/elena ke jorge.png" width="500">
         
    ###Uji coba ping `Elena` ke `google`
    
-        <img src="image/elena ke google.png" width="500">
+   <img src="image/elena ke google.png" width="500">
    
         
        
