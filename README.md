@@ -428,7 +428,6 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
 ## Kendala
 
 1. Awalnya kesulitan saat menggabungkan tiap subnet pada metode CIDR dan sempat menyentuh subnet /15 yang mana harus menambah oktet ke-2.
-2. Sudah sulit, mengerjakannya juga kurang teliti, ya mengulang deh jadinya.
-3. Ada ketidakjelasan informasi pada soal sehingga cukup kebingungan saat mengerjakan.
-4. Salah satu anggota kelompok kebetulan ada keperluan mendesak (lomba) yang menyebabkan ketidaklengkapan anggota kelompok yang mengerjakan.
-5. Saat dijalankan ada beberapa konfigurasi yang kurang tepat sehingga tidak sesuai harapan.
+2. Ada ketidakjelasan informasi pada soal sehingga cukup kebingungan saat mengerjakan.
+3. Salah satu anggota kelompok kebetulan ada keperluan mendesak (lomba) yang menyebabkan ketidaklengkapan anggota kelompok yang mengerjakan.
+4. Saat dijalankan ada beberapa konfigurasi yang kurang tepat sehingga tidak sesuai harapan.
