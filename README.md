@@ -60,6 +60,10 @@ Pakek email its yaa
    **Pengaturan pada tiap node**
    1. Pada Foosha
   
+  - Konfigurasi Foosha
+  
+  <img src="image/routing foosha ke a11&a3.jpg" width="500">
+  
    - Uji coba ping `Foosha` ke `chiper`
    
    <img src="image/foosha ke doriki.png" width="500">
