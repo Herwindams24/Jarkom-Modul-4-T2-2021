@@ -59,8 +59,30 @@ Pakek email its yaa
    
    **Pengaturan pada tiap node**
    1. Pada Foosha
+  
+   ###Uji coba ping `Foosha` ke `chiper`
+   
+   <img src="image/foosha ke doriki.png" width="500">
 
-        <img src="" width="500">
+   ###Uji coba ping `Foosha` ke `Elena`
+   
+   <img src="image/foosha ke elena.png" width="500">
+   
+   ###Uji coba ping `Foosha` ke `Jipangu`
+   
+   <img src="image/foosha ke jipangu.png" width="500">
+   
+   ###Uji coba ping `Foosha` ke `Jorge`
+   
+   <img src="image/foosha ke jorge.png" width="500">
+        
+   ###Uji coba ping `Foosha` ke `Oimo`
+   
+   <img src="image/foosha ping oimo.png" width="500">
+        
+   ###Uji coba ping `Foosha` ke `Google`
+   
+   <img src="image/foosha ping google.jpg" width="500">
 
    2. Pada Blueno
    
@@ -88,7 +110,17 @@ Pakek email its yaa
    
    8. Pada Jipangu
    
-        <img src="" width="500">
+   ###Uji coba ping `jipangu` ke `Jorge`
+   
+   <img src="image/jipangu ke jorge.png" width="500">
+
+   ###Uji coba ping `jipangu` ke `Elena`
+   
+   <img src="image/jipangu ke Elena.png" width="500">
+   
+   ###Uji coba ping `jipangu` ke `Google`
+   
+   <img src="image/jipangu ke google.png" width="500">
    
    9. Pada Doriki
    
@@ -134,23 +166,23 @@ Pakek email its yaa
 
    ###Uji coba ping `Elena` ke `Doriki`
    
-        <img src="image/elena ke doriki.png" width="500">
+   <img src="image/elena ke doriki.png" width="500">
 
-   ###Uji coba ping `Elena` ke `fukurou`
+   ###Uji coba ping `Elena` ke `Fukurou`
    
    <img src="image/elena ke fukurou.png" width="500">
    
-   ###Uji coba ping `Elena` ke `jipangu`
+   ###Uji coba ping `Elena` ke `Jipangu`
    
    <img src="image/elena ke jipangu.png" width="500">
         
-   ###Uji coba ping `Elena` ke `jorge`
+   ###Uji coba ping `Elena` ke `Jorge`
    
-   <img src="image/elena ping jorge.png" width="500">
+   <img src="image/elena ping jorge.jpg" width="500">
         
-   ###Uji coba ping `Elena` ke `google`
+   ###Uji coba ping `Elena` ke `Google`
    
-   <img src="image/elena ping google.png" width="500">
+   <img src="image/elena ping google.jpg" width="500">
    
         
        
