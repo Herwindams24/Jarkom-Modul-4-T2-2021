@@ -270,6 +270,7 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
 ![chrome_3C21gSkfJB](https://user-images.githubusercontent.com/57980125/143684508-1c50e7da-3cb7-4e38-a301-84910661f83c.png)
 
   **Routing**
+  
 ![chrome_B4uvZJICri](https://user-images.githubusercontent.com/57980125/143684486-5d0c105a-7fff-4257-9e66-04a6f47d7da9.png)
 
 ![chrome_0mTJK6E0EP](https://user-images.githubusercontent.com/57980125/143684489-a92ee316-bcc2-4a5a-986c-a1f73dde020e.png)
@@ -313,19 +314,33 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
    
  Pada Water7
    
-  <img src="" width="500">
+   **Konfigurasi**
+   
+   ![chrome_PdPYZ5OYNH](https://user-images.githubusercontent.com/57980125/143684587-a3ffa5ce-dd67-4966-8fa3-d18ccc003d1e.png)
+
+   ![chrome_sTPjBwFh17](https://user-images.githubusercontent.com/57980125/143684588-5907e68e-fa5a-4ddf-b5e6-51d0d76c3d54.png)
+
+  **Routing**
+  
+  ![chrome_eBNoZWahah](https://user-images.githubusercontent.com/57980125/143684646-c10e8a2c-3c9f-41c3-8b8d-c9c8b2245c3c.png)
+
    
   Pada Pucci
    
+  **Konfigurasi**
   
+  ![chrome_O4SBoFP0Ow](https://user-images.githubusercontent.com/57980125/143684675-965680b3-1ac9-43f4-8750-25b5b8778361.png)
+
+  ![chrome_RSTreUVoEL](https://user-images.githubusercontent.com/57980125/143684677-2197d9cb-c8ad-4314-994f-fb3ad6bfe77a.png)
+
    
   Pada Guanhao
   
-  Routing
+  **Routing**
   
-   ![chrome_iJyYPqkfPe](https://user-images.githubusercontent.com/57980125/143684390-ee1b4417-ff5f-4c58-aa0d-86d775b82f31.png)
+  ![chrome_iJyYPqkfPe](https://user-images.githubusercontent.com/57980125/143684390-ee1b4417-ff5f-4c58-aa0d-86d775b82f31.png)
 
- Konfigurasi
+ **Konfigurasi**
  
   ![chrome_tqYLWe5gRM](https://user-images.githubusercontent.com/57980125/143684396-d0ba3b33-b417-4735-b132-635892124ad1.png)
   
@@ -390,14 +405,24 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
  
   21. Pada Oimo
  
+      **Routing**
+      
+      ![chrome_e2RNBWNiyY](https://user-images.githubusercontent.com/57980125/143684753-08e0d0ed-994d-476f-a59f-24847cba3780.png)
+
+      **Konfigurasi**
+      ![chrome_jxlbAZ6VwQ](https://user-images.githubusercontent.com/57980125/143684737-5b166206-b721-468e-83a3-08f8bf3e215c.png)
+
+      ![chrome_e2RNBWNiyY](https://user-images.githubusercontent.com/57980125/143684732-5bf24ae5-ab7c-4867-ba4a-95af0ffd9ffa.png)
+
+      **Uji Coba**
+      
       - Uji coba ping `Oimo` ke `Chiper`
 
         <img src="https://user-images.githubusercontent.com/57520495/143682374-f98daf97-7a7c-45f6-8637-947e1892e340.png" width="500">
         
-   - Uji coba ping `Oimo` ke `Pucci`
+      - Uji coba ping `Oimo` ke `Pucci`
 
         <img src="https://user-images.githubusercontent.com/57520495/143682419-45e27eaf-5872-478b-98ea-3828ee98c4bb.png" width="500">
-
 
 
 ---
