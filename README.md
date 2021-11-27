@@ -27,9 +27,29 @@ Pakek email its yaa
 ## VLSM
    
    **Perhitungan dan pembagian IP**
+   
    Tabel jumlah IP dibutuhkan pada tiap subnet
    
    <img src="https://user-images.githubusercontent.com/57520495/143677185-462b973b-ddd3-4b0f-b8c0-e9d65e21e0db.png" width="500">
+   
+| Subnet | Jumlah IP | Netmask |
+| --- | --- | --- |
+| A1 | 721 | /22 |
+| A2 | 252 | /24 |
+| A3 | 2 | /30 |
+| A4 | 521 | /22 |
+| A5 | 13 | /28 |
+| A6 | 502 | /23 |
+| A7 | 2 | /30 |
+| A8 | 2 | /30 |
+| A9 | 1001 | /22 |
+| A10 | 701 | /22 |
+| A11 | 2 | /30 |
+| A12 | 2021 | /21 |
+| A13 | 101 | /25 |
+| A14 | 2 | /30 |
+| A15 | 2 | /30 |
+| Total | 5845 | /19 |
    
    Tabel pembagian IP
    
@@ -37,7 +57,7 @@ Pakek email its yaa
    
    Topologi VLSM
    
-   <img src="https://user-images.githubusercontent.com/57520495/143677310-079eaa6a-d172-4c4c-8704-8e5bb5305373.png  " width="500">
+   <img src="https://user-images.githubusercontent.com/57520495/143677310-079eaa6a-d172-4c4c-8704-8e5bb5305373.png" width="500">
    
    **Pengaturan pada tiap node**
    1. Pada Foosha
