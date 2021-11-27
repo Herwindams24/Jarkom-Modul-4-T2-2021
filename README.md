@@ -157,11 +157,11 @@ Pakek email its yaa
    15. Pada Oimo
    
    - Uji coba ping `Oimo` ke `Chiper`
-   - 
+
         <img src="https://user-images.githubusercontent.com/57520495/143682374-f98daf97-7a7c-45f6-8637-947e1892e340.png" width="500">
         
    - Uji coba ping `Oimo` ke `Pucci`
-   - 
+
         <img src="https://user-images.githubusercontent.com/57520495/143682419-45e27eaf-5872-478b-98ea-3828ee98c4bb.png" width="500">
    
    16. Pada Fukurou
