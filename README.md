@@ -12,6 +12,7 @@ Kelompok T02
    **Soal**
     
    Buatlah topologi seperti berikut dan tentukan subnetting serta routingnya
+   
 <img src="https://user-images.githubusercontent.com/57520495/143676636-69f4fc74-86ea-4ef4-aa87-86b3663df461.png" width="500">
 
 ---
@@ -27,12 +28,15 @@ Pakek email its yaa
    
    **Perhitungan dan pembagian IP**
    Tabel jumlah IP dibutuhkan pada tiap subnet
+   
    <img src="https://user-images.githubusercontent.com/57520495/143677185-462b973b-ddd3-4b0f-b8c0-e9d65e21e0db.png" width="500">
    
    Tabel pembagian IP
+   
    <img src="https://user-images.githubusercontent.com/57520495/143677234-6af41b07-ef6a-4c29-83da-811b15704605.png" width="500">
    
    Topologi VLSM
+   
    <img src="https://user-images.githubusercontent.com/57520495/143677310-079eaa6a-d172-4c4c-8704-8e5bb5305373.png  " width="500">
    
    **Pengaturan pada tiap node**
