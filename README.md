@@ -90,7 +90,8 @@ Pakek email its yaa
    
    3. Pada Water7
    
-       <img src="" width="500">
+   - Konfigurasi Water7
+       <img src="image/cpt_water7_fa01.jpg" width="500">
    
    4. Pada Chiper
     
@@ -98,7 +99,8 @@ Pakek email its yaa
    
    5. Pada Pucci
    
-        <img src="" width="500">
+   -Konfigurasi Pucci
+        <img src="image/cpt_pucci_fa00.jpg" width="500">
    
    6. Pada Calmbelt
    
@@ -148,7 +150,11 @@ Pakek email its yaa
    
    15. Pada Oimo
    
-        <img src="" width="500">
+   - Uji coba ping `Oimo` ke `Chiper`
+        <img src="https://user-images.githubusercontent.com/57520495/143682374-f98daf97-7a7c-45f6-8637-947e1892e340.png" width="500">
+        
+   - Uji coba ping `Oimo` ke `Pucci`
+        <img src="https://user-images.githubusercontent.com/57520495/143682419-45e27eaf-5872-478b-98ea-3828ee98c4bb.png" width="500">
    
    16. Pada Fukurou
    
