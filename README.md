@@ -146,11 +146,11 @@ Pakek email its yaa
         
    ###Uji coba ping `Elena` ke `jorge`
    
-   <img src="image/elena ke jorge.png" width="500">
+   <img src="image/elena ping jorge.png" width="500">
         
    ###Uji coba ping `Elena` ke `google`
    
-   <img src="image/elena ke google.png" width="500">
+   <img src="image/elena ping google.png" width="500">
    
         
        
