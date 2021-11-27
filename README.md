@@ -122,6 +122,24 @@ Pakek email its yaa
 ## CIDR
    
    **Perhitungan dan pembagian IP**
+   Tabel jumlah IP dibutuhkan pada tiap subnet
+   
+   <img src="https://user-images.githubusercontent.com/57520495/143677616-a2a1c15a-0ccd-4744-bfd3-fd5672ef965a.png" width="500">
+   <img src="https://user-images.githubusercontent.com/57520495/143677676-30614d22-41f2-46c6-a01b-78136b7c141c.png" width="500">
+   
+   Tabel pembagian IP
+   
+   <img src="https://user-images.githubusercontent.com/57520495/143677745-64fc543b-5153-4e81-b085-3633bfef72fe.png" width="500">
+   
+   Topologi CIDR
+   
+   <img src="https://user-images.githubusercontent.com/57520495/143677792-55fd3842-a3fb-45a4-9892-4866b84c043d.png" width="500">
+      
+   <img src="https://user-images.githubusercontent.com/57520495/143677842-e8183a64-9502-4556-9ebf-00210e1ae116.png" width="500">
+   
+   <img src="https://user-images.githubusercontent.com/57520495/143678077-80752831-45fe-4b5b-a090-6a67fc250e0b.png" width="500">
+   
+   <img src="https://user-images.githubusercontent.com/57520495/143678161-4c12c744-6035-4b84-b284-4cdf04fd3571.png" width="500">
    
    
    **Pengaturan pada tiap node**
@@ -129,25 +147,76 @@ Pakek email its yaa
 
         <img src="" width="500">
 
-   2. Pada Loguetown
+   2. Pada Blueno
    
         <img src="" width="500">
-        <img src="" width="500">
    
-   3. Pada Skypie
+   3. Pada Water7
    
        <img src="" width="500">
    
-   4. Pada EnniesLobby
+   4. Pada Chiper
     
         <img src="" width="500">
    
-   5. Pada Water7
+   5. Pada Pucci
    
         <img src="" width="500">
    
-   6. Pada Alabasta
-        
+   6. Pada Calmbelt
+   
+        <img src="" width="500">
+   
+   7. Pada Courtyard
+   
+        <img src="" width="500">
+   
+   8. Pada Jipangu
+   
+        <img src="" width="500">
+   
+   9. Pada Doriki
+   
+        <img src="" width="500">
+   
+   10. Pada Guanhao
+   
+        <img src="" width="500">
+   
+   11. Pada Jabra
+   
+        <img src="" width="500">
+   
+   12. Pada Maingate
+   
+        <img src="" width="500">
+   
+   13. Pada Alabasta
+   
+        <img src="" width="500">
+   
+   14. Pada Jorge
+   
+        <img src="" width="500">
+   
+   15. Pada Oimo
+   
+        <img src="" width="500">
+   
+   16. Pada Fukurou
+   
+        <img src="" width="500">
+   
+   17. Pada EniesLobby
+   
+        <img src="" width="500">
+   
+   18. Pada Seastone
+   
+        <img src="" width="500">
+   
+   19. Pada Elena
+   
         <img src="" width="500">
        
 ---
