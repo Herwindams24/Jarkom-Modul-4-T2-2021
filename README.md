@@ -276,4 +276,8 @@ Pakek email its yaa
 
 ## Kendala
 
-Dalam pengerjaan praktikum ini, tidak ditemukan kendala berarti. Semua telah dapat terselesaikan saat laporan praktikum selesai.
+1. Awalnya kesulitan saat menggabungkan tiap subnet pada metode CIDR dan sempat menyentuh subnet /15 yang mana harus menambah oktet ke-2.
+2. Sudah sulit, mengerjakannya juga kurang teliti, ya mengulang deh jadinya.
+3. Ada ketidakjelasan informasi pada soal sehingga cukup kebingungan saat mengerjakan.
+4. Salah satu anggota kelompok kebetulan ada keperluan mendesak (lomba) yang menyebabkan ketidaklengkapan anggota kelompok yang mengerjakan.
+5. Saat dijalankan ada beberapa konfigurasi yang kurang tepat sehingga tidak sesuai harapan.
