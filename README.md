@@ -30,8 +30,6 @@ Pakek email its yaa
    
    Tabel jumlah IP dibutuhkan pada tiap subnet
    
-   <img src="https://user-images.githubusercontent.com/57520495/143677185-462b973b-ddd3-4b0f-b8c0-e9d65e21e0db.png" width="500">
-   
 | Subnet | Jumlah IP | Netmask |
 | --- | --- | --- |
 | A1 | 721 | /22 |
@@ -146,6 +144,44 @@ Pakek email its yaa
    
    <img src="https://user-images.githubusercontent.com/57520495/143677616-a2a1c15a-0ccd-4744-bfd3-fd5672ef965a.png" width="500">
    <img src="https://user-images.githubusercontent.com/57520495/143677676-30614d22-41f2-46c6-a01b-78136b7c141c.png" width="500">
+   
+| Subnet | Jumlah IP | Netmask |
+| --- | --- | --- |
+| A1 | 721 | /22 |
+| A2 | 252 | /24 |
+| A3 | 2 | /30 |
+| A4 | 521 | /22 |
+| A5 | 13 | /28 |
+| A6 | 502 | /23 |
+| A7 | 2 | /30 |
+| A8 | 2 | /30 |
+| A9 | 1001 | /22 |
+| A10 | 701 | /22 |
+| A11 | 2 | /30 |
+| A12 | 2021 | /21 |
+| A13 | 101 | /25 |
+| A14 | 2 | /30 |
+| A15 | 2 | /30 |
+| Total | 5845 | /19 |
+
+   Tabel penggabungan subnet
+
+| Subnet | Asal Subnet | Netmask |
+| --- | --- | --- |
+| B1 | A1 + A2 | /21 |
+| B2 | A3 + A14 | /29 |
+| B3 | A7 + A4 | /21 |
+| B4 | A6 + A5 | /22 |
+| B5 | A12 + A13 | /20 |
+| B6 | A10 + A11 | /21 |
+| B7 | A8 + A9 | /21 |
+| C1 | B1 + B2 | /20 |
+| C2 | B3 + B4 | /20 |
+| C3 | B5 + B6 | /19 |
+| C4 | B7 + A15 | /20 |
+| D1 | C1 + C2 | /19 |
+| D2 | C3 + C4 | /18 |
+| E1 | D1 + D2 | /17 |
    
    Tabel pembagian IP
    
