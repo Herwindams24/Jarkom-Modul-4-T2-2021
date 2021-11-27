@@ -133,19 +133,19 @@ Pakek email its yaa
    19. Pada Elena
 
    ###Uji coba ping `Elena` ke `Doriki`
-        <img src="https://github.com/Herwindams24/Jarkom-Modul-4-T2-2021/blob/main/image/elena%20ke%20doriki.png" width="500">
+        <img src="image/elena ke doriki.png" width="500">
 
-   ###Uji coba ping `Elena` ke `Fukurou`
-   <img src="https://github.com/Herwindams24/Jarkom-Modul-4-T2-2021/blob/main/image/elena%20ke%20fukurou.png" width="500">
+   ###Uji coba ping `Elena` ke `fukurou`
+   <img src="image/elena ke fukurou.png" width="500">
    
-   ###Uji coba ping `Elena` ke `Jipangu`
-        <img src="https://github.com/Herwindams24/Jarkom-Modul-4-T2-2021/blob/main/image/elena%20ke%20jipangu.png" width="500">
+   ###Uji coba ping `Elena` ke `jipangu`
+        <img src="image/elena ke jipangu.png" width="500">
         
-   ###Uji coba ping `Elena` ke `Jorge`
-        <img src="https://github.com/Herwindams24/Jarkom-Modul-4-T2-2021/blob/main/image/elena%20ke%20jorge.png" width="500">
+   ###Uji coba ping `Elena` ke `jorge`
+        <img src="image/elena ke jorge.png" width="500">
         
-   ###Uji coba ping `Elena` ke `Google`
-        <img src="https://github.com/Herwindams24/Jarkom-Modul-4-T2-2021/blob/main/image/elena%20ke%20google.png" width="500">
+   ###Uji coba ping `Elena` ke `google`
+        <img src="image/elena ke google.png" width="500">
    
         
        
