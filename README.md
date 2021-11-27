@@ -261,7 +261,8 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
  Selanjutnya, lakukan konfigurasi terlebih dahulu disetiap router, server, dan PC:
    
    **Pengaturan pada tiap node**
-   1. Pada Foosha
+   
+   Pada Foosha
 
   **Konfigurasi**
 
@@ -322,9 +323,9 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
 
   **Routing**
   
-  ![chrome_eBNoZWahah](https://user-images.githubusercontent.com/57980125/143684646-c10e8a2c-3c9f-41c3-8b8d-c9c8b2245c3c.png)
-
-   
+  ![chrome_eBNoZWahah](https://user-images.githubusercontent.com/57980125/143684646-c10e8a2c-3c9f-41c3-8b8d-c9c8b2245c3c.png) 
+  
+  
   Pada Pucci
    
   **Konfigurasi**
@@ -362,11 +363,11 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
   
   ![chrome_nq1H1Vf5ty](https://user-images.githubusercontent.com/57980125/143684334-02750a0e-a7bd-41dd-ac96-a5e95b2f8aff.png)
    
-   18. Pada Seastone
+   Pada Seastone
    
    ![chrome_t8azydrMEc](https://user-images.githubusercontent.com/57980125/143684280-b6423a0a-ac3e-408b-acbc-927aea2bb70a.png)   
    
-   19. Pada Elena
+   Pada Elena
    
    - Uji coba ping `Elena` ke `Doriki`
    
@@ -388,41 +389,38 @@ Subnet C akan digabungkan menjadi 2 subnet yang lebih besar yang dinamakan **D1*
    
    <img src="image/elena ping google.jpg" width="500">
   
-  20. Pada Jipangu
+  Pada Jipangu
        
    - Uji coba ping `jipangu` ke `Jorge`
    
    <img src="image/jipangu ke jorge.png" width="500">
-
-   - Uji coba ping `jipangu` ke `Elena`
-   
-   <img src="image/jipangu ke Elena.png" width="500">
    
    - Uji coba ping `jipangu` ke `Google`
    
    <img src="image/jipangu ke google.png" width="500">
   
  
-  21. Pada Oimo
+ Pada Oimo
  
-      **Routing**
+   **Routing**
       
-      ![chrome_e2RNBWNiyY](https://user-images.githubusercontent.com/57980125/143684753-08e0d0ed-994d-476f-a59f-24847cba3780.png)
+   ![chrome_e2RNBWNiyY](https://user-images.githubusercontent.com/57980125/143684753-08e0d0ed-994d-476f-a59f-24847cba3780.png)
 
-      **Konfigurasi**
-      ![chrome_jxlbAZ6VwQ](https://user-images.githubusercontent.com/57980125/143684737-5b166206-b721-468e-83a3-08f8bf3e215c.png)
+   **Konfigurasi**
+   
+   ![chrome_jxlbAZ6VwQ](https://user-images.githubusercontent.com/57980125/143684737-5b166206-b721-468e-83a3-08f8bf3e215c.png)
 
-      ![chrome_e2RNBWNiyY](https://user-images.githubusercontent.com/57980125/143684732-5bf24ae5-ab7c-4867-ba4a-95af0ffd9ffa.png)
+   ![chrome_e2RNBWNiyY](https://user-images.githubusercontent.com/57980125/143684732-5bf24ae5-ab7c-4867-ba4a-95af0ffd9ffa.png)
 
-      **Uji Coba**
+   **Uji Coba**
       
-      - Uji coba ping `Oimo` ke `Chiper`
+   - Uji coba ping `Oimo` ke `Chiper`
 
-        <img src="https://user-images.githubusercontent.com/57520495/143682374-f98daf97-7a7c-45f6-8637-947e1892e340.png" width="500">
+     <img src="https://user-images.githubusercontent.com/57520495/143682374-f98daf97-7a7c-45f6-8637-947e1892e340.png" width="500">
         
-      - Uji coba ping `Oimo` ke `Pucci`
+   - Uji coba ping `Oimo` ke `Pucci`
 
-        <img src="https://user-images.githubusercontent.com/57520495/143682419-45e27eaf-5872-478b-98ea-3828ee98c4bb.png" width="500">
+   <img src="https://user-images.githubusercontent.com/57520495/143682419-45e27eaf-5872-478b-98ea-3828ee98c4bb.png" width="500">
 
 
 ---
