@@ -142,9 +142,6 @@ Pakek email its yaa
    **Perhitungan dan pembagian IP**
    Tabel jumlah IP dibutuhkan pada tiap subnet
    
-   <img src="https://user-images.githubusercontent.com/57520495/143677616-a2a1c15a-0ccd-4744-bfd3-fd5672ef965a.png" width="500">
-   <img src="https://user-images.githubusercontent.com/57520495/143677676-30614d22-41f2-46c6-a01b-78136b7c141c.png" width="500">
-   
 | Subnet | Jumlah IP | Netmask |
 | --- | --- | --- |
 | A1 | 721 | /22 |
