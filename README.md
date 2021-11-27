@@ -12,7 +12,7 @@ Kelompok T02
    **Soal**
     
    Buatlah topologi seperti berikut dan tentukan subnetting serta routingnya
-<img src="https://user-images.githubusercontent.com/57520495/143676636-69f4fc74-86ea-4ef4-aa87-86b3663df461.pn" width="500">
+<img src="https://user-images.githubusercontent.com/57520495/143676636-69f4fc74-86ea-4ef4-aa87-86b3663df461.png" width="500">
 
 ---
 
